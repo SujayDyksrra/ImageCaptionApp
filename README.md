@@ -1,0 +1,1 @@
+To run this app, generate a free Gemini API key from Google AI Studio and place it in App.js on line 9."
